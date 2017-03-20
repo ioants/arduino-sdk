@@ -1,7 +1,7 @@
 {
   "name": "ioant",
   "keywords": "ioant, sdk, iot",
-  "description": "Used to enable esp8266 devices to connect via MQTT to IOAnt platforms",
+  "description": "The IOAnt Arduino SDK is used to enable esp8266 devices to connect via MQTT to IOAnt platforms",
   "repository":
   {
     "type": "git",
