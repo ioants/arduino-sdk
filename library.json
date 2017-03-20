@@ -1,0 +1,22 @@
+{
+  "name": "IOAnt Arduino SDK",
+  "keywords": "ioant, sdk, iot",
+  "description": "Used to enable esp8266 devices to connect via MQTT to IOAnt platforms",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ioants/arduino-sdk"
+  },
+  "authors":
+  [
+    {
+      "name": "Adam Saxén",
+      "email": "adam.saxen@gmail.com",
+      "url": "adam.sx",
+      "maintainer": true
+    }
+  ],
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "espressif8266"
+}
